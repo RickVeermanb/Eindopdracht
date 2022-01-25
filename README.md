@@ -1,8 +1,10 @@
 # Procesverslag
  
-##Link
+Link
 https://rickveermanb.github.io/Eindopdracht/
 
+Ontworpen voor Iphone X 
+375pt Width * 812PT Height
 
 
 
